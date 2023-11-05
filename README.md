@@ -1,3 +1,3 @@
-# node-starter
+# starter
 
-Welcome to node-starter.
+Welcome to starter.
